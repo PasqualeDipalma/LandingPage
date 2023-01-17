@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    height: 100vh;
+}
+
+.header-top-text,
+.header-description,
+.body-container,
+.header-links,
+.footer {
+    display: flex;
+    
+}
+
+.header-top-text,
+.header-description {
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.header-top-text,
+.main-text {
+    color: #F9FAF8;
+}
+
+.header-top-text {
+    margin-top: 12px;
+    align-items: center;
+}
+
+.text-logo {
+    font-size: 24px;
+}
+
+.header-links,
+.secondary-text,
+.image-placeholder {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-links {
+    gap: 16px;
+}
+
+.main-text {
+    width: 400px;
+    font-size: 48px;
+    font-weight: bolder;
+    flex-wrap: wrap;
+}
+
+.secondary-text {
+    flex-wrap: wrap;
+}
+
+.text-description {
+    width: 580px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-description {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.image-placeholder {
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    padding: 120px 160px;
+}
+
+button {
+    border: none;
+    padding: 3px 12px;
+    border-radius: 6px;
+    margin-top: 7px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
