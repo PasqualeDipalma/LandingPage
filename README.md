@@ -1,7 +1,7 @@
 # LandingPage
 2nd Project - Learning web development with https://www.theodinproject.com/
 
-<h1>Conding a landing page with HTML and CSS<h1>
+<h1>Coding a landing page with HTML and CSS<h1>
 
 Design
 ![01](https://user-images.githubusercontent.com/122730242/212753396-d39a189f-ff95-452c-80b6-5b524e71aace.png)
