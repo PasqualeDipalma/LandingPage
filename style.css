@@ -149,14 +149,14 @@ a {
 .box {
     display: flex;
     flex-direction: column;
-    width: 150px;
+    width: 155px;
 
 }
 
 .empty-box {
     height: 140px;
     width: auto;
-    border: 3px solid #3882F6;
+    border: 4px solid #3882F6;
     border-radius: 8px;
     margin-bottom: 5px;
 }
