@@ -13,4 +13,4 @@ Color and Fonts
 
 Final Result
 
-![Final_LandingPage](https://user-images.githubusercontent.com/122730242/213236583-17231357-7e35-44d6-974c-14d2a931750d.png)
+![Final_LandingPage](https://user-images.githubusercontent.com/122730242/213237130-a31f5a92-aa0c-4a48-9392-96b66ebfe996.png)
